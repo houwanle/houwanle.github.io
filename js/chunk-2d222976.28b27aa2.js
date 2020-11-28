@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d222976"],{ceec:function(e,n,l){"use strict";l.r(n);var t=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("file-table")},a=[],c=l("5fc6"),u={name:"FileManage",components:{fileTable:c["default"]}},i=u,o=l("2877"),s=Object(o["a"])(i,t,a,!1,null,null,null);n["default"]=s.exports}}]);
-//# sourceMappingURL=chunk-2d222976.28b27aa2.js.map
